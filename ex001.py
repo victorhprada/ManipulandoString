@@ -7,4 +7,4 @@ new = nome.replace(' ', '')
 print(len(new))
 print(nome.split())
 dividido = nome.split()
-print(len(dividido[0]))
+print(len(dividido[0]));
