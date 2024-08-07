@@ -6,5 +6,5 @@ print(len(nome.strip()))
 new = nome.replace(' ', '')
 print(len(new))
 print(nome.split())
-dividido = nome.split()
+dividido = nome.split();
 print(len(dividido[0]));
